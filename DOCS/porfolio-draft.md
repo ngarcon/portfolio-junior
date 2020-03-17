@@ -1,4 +1,4 @@
-# Analyse dy besoin :bar_chart: 
+# Portfolio développeur JS
 
 ## :clipboard: Que mettre dans un portfolio ? 
 
